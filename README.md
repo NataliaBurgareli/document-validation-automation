@@ -22,6 +22,7 @@ This project automates the analysis of document-based requests by:
 
 ## 🛠️ Technologies
 
+- 📊 Excel
 - 🐍 Python
 - 🎭 Playwright
 - 🐼 Pandas
