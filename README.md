@@ -1,6 +1,6 @@
 # 📄 Document Validation Automation
 
-Automated document validation using Python, Playwright, and Excel.
+Automated document validation and attachment analysis using Python, Playwright, and Excel.
 
 ## 🚀 Overview
 
